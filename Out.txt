@@ -1,0 +1,20 @@
+Programmer: Me
+
+Customer:                 Paul Barringer
+Account:                    540.231.3154
+Billing date:                 02/20/2001
+
+                       Minutes    Charge
+========================================
+Peak:                    01:56     11.60
+Offpeak:                 04:37     10.31
+Card:                    00:00      0.00
+========================================
+Subtotal:                          21.91
+Calling plan fee:                   4.95
+Calling card fee:                   1.00
+Universal connectivity charge:      5.31
+Local tax:                          1.25
+State tax:                          0.11
+========================================
+Total:                             34.53
