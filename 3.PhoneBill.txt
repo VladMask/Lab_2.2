@@ -1,0 +1,21 @@
+Programmer:  Bill McQuain
+CS 1044 Project 4 Fall 2001
+
+Customer:                                John McBryde
+Account:                                 540.231.2346
+Billing date:                              02/24/2001
+
+                                   Minutes    Charge 
+=====================================================
+Peak:                                 0:05      0.50
+Offpeak:                              1:45      5.15
+Card:                                 0:40     10.00
+=====================================================
+Subtotal                                       15.65
+Calling plan fee                                4.95
+Calling card fee                                1.00
+Universal connectivity charge                   5.31
+Local tax                                       1.25
+State tax                                       0.08
+=====================================================
+Total                                          28.24

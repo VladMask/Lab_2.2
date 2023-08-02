@@ -1,0 +1,21 @@
+Programmer:  Bill McQuain
+CS 1044 Project 5 Fall 2001
+
+Customer:                              Julian Burruss
+Account:                                 540.231.7931
+Billing date:                              04/18/2001
+
+                                   Minutes    Charge 
+=====================================================
+Peak:                                 3:08     23.20
+Offpeak:                              2:55      7.65
+Card:                                 1:47     26.75
+=====================================================
+Subtotal                                       57.60
+Calling plan fee                                4.95
+Calling card fee                                1.00
+Universal connectivity charge                   5.31
+Local tax                                       1.25
+State tax                                       0.20
+=====================================================
+Total                                          70.31
